@@ -2,7 +2,11 @@
 using namespace std; 
 long long int mod=1000000007;
 long long int mod2=998244353;
+<<<<<<< HEAD
 long long int p=1;
+=======
+long long int temp=1;
+>>>>>>> 9b444fa (Change)
 //#define MAX 10000
 //vector<int> stree(MAX,0);
 //vector<int> lazy(MAX,0);
